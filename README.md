@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My name is Samuel and this is the beginning of my coding journey
+## Here you will find a showcase of my skills put to use in projects testing my ability to think, solve and create independantly.
 <!--
 **skcapone/skcapone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
